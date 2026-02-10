@@ -1,6 +1,13 @@
-function Home(){
-    return <h1>Eu queria dizer que quem sempre me apoiou foi voce,
-         e como o felipe pede pra homenagiar alguem... esse alguem pra mim e voce emy, TE AMO!!!!</h1>
+function Home() {
+    return (
+        <div>
+            <h1>Eu queria dizer que quem sempre me apoiou foi voce
+                e como o felipe pede pra homenagiar alguem...
+                pra mim esse alguem nao poderia ser outra pessoa alem de voce Emy</h1> ,
+            <h1>  so posso agradecer por todo incentivo e toda forca.
+                TE AMO MEU AMOR!!!! PRA SEMPRE EU E VOCE🥰</h1>
+        </div>
+    )
 }
 
 export default Home;
